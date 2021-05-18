@@ -1,0 +1,67 @@
+#banner_image {
+   
+    background-image: url(safe-black_93675-38090.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 75px;
+ padding-bottom: 50px;
+ text-align: center;
+ color: #f8f8f8;
+ background-size:100%;
+  }
+  .contain{
+    padding: 10px 0;
+     background-color:#f8f8f8;
+     color:black;
+     bottom: 0;
+     width: 100%;
+    }
+    #banner_content{
+        position:initial;
+         padding-top: 6%;
+         padding-bottom:2%;
+         margin-top: 12%;
+         margin-bottom: 12%;
+         background-color: rgba(0, 0, 0, 0.397);
+         max-width: 660px; 
+      }
+      #inner_bannerimage{
+        width:80%;
+        margin:auto;
+        position:centre;
+        padding-top: 6%;
+        padding-bottom:6%}
+        .fa-linkedin {
+            background: #007bb5;}
+  #fontcolor{
+    color: #f8f8f8;}
+
+  #back_image{
+   
+    background-image: url(photo-1579621970795-87facc2f976d.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 75px;
+ padding-bottom: 50px;
+ text-align: center;
+ color: #f8f8f8;
+ background-size:100%;
+  }
+  #b_image{
+   
+    background-image: url(photo-1564767609342-620cb19b2357.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 75px;
+ padding-bottom: 50px;
+ text-align: center;
+ color: #f8f8f8;
+ background-size:100%;
+  }
+ 
